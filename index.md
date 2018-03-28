@@ -8,3 +8,11 @@ layout: null
 # jnoh.net
 
 my space to think out loud
+
+---
+
+## 20180327
+
+**10:13**
+
+I would like to be able to add to this much more quickly. Without the need to push to a server. More like writing to journal...
