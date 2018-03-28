@@ -17,7 +17,7 @@ title: jnoh.net
 description: >- # this means to ignore newlines until "baseurl:"
   my space to think out loud
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jnoh.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jnoh.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
