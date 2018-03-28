@@ -14,7 +14,7 @@ my space to think out loud
 ## Daily Log
 
 
-####20180327
+#### 2018-03-27
 
 **10:13PM**
 
