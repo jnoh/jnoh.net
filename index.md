@@ -6,4 +6,4 @@
 
 jnoh.net
 
-a space to think out loud
+my space to think out loud
