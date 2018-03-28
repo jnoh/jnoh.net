@@ -7,7 +7,7 @@ layout: null
 
 # jnoh.net
 
-my space to think out loud
+a place to put my thoughts
 
 ---
 
