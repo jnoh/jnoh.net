@@ -11,8 +11,11 @@ my space to think out loud
 
 ---
 
-## 20180327
+## Daily Log
 
-**10:13**
+
+####20180327
+
+**10:13PM**
 
 I would like to be able to add to this much more quickly. Without the need to push to a server. More like writing to journal...
