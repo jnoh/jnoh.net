@@ -11,10 +11,7 @@ my space to think out loud
 
 ---
 
-## Daily Log
-
-
-#### 2018-03-27
+### 2018-03-27
 
 **10:13PM**
-I would like to be able to add to this much more quickly. Without the need to push to a server. More like writing to journal...
+I would like to be able to add to this much more quickly. Without the need to push to a server. More like writing to a journal...
