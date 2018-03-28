@@ -5,6 +5,6 @@
 layout: null
 ---
 
-jnoh.net
+# jnoh.net
 
 my space to think out loud
