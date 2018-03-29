@@ -5,13 +5,43 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-      #content {
-        width: 500px;
+      #page {
+        max-width: 500px;
+        margin: 15px;
+        word-wrap: break-word;
       }
+      h1 {
+        display: flex;
+        align-items: baseline;
+      }
+      h1 span {
+        display: inline-block;
+        margin: 0 0 0 10px;
+      }
+      img {
+        max-width: 500px;
+      }
+      pre {
+        word-wrap: break-word;
+        white-space: pre-wrap;
+      }
+      a {
+        text-decoration: none;
+      }
+      input {
+        width: 60%;
+      }
+      ul, ol {
+        padding-left: 1em;
+      }
+      dd {
+        margin: 1em;
+      }
+
     </style>
   </head>
   <body>
-    <div id="content">
+    <div id="page">
       {{content}}
     </div>
   </body>
