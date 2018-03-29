@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-# jnoh.net
+# jnoh.net: a place to put my thoughts
 
-a place to put my thoughts
+Writing, organizing and linking, is the act of thinking. This is a notebook that encourages these things with expressed hope that it results in increased clarity of thinking.
 
 ---
 
