@@ -8,6 +8,8 @@
 
 a place to put my thoughts
 
+---
+
 **2018-03-27 10:13PM**
 
 I would like to be able to add to this much more quickly. Without the need to push to a server. More like writing to a journal...
