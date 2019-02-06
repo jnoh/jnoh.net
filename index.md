@@ -1,7 +1,7 @@
 # 노
 
-## Notebook
+Jeff Noh
+San Francisco
+jeff@jnoh.net
 
-Writing, organizing and linking, is my way of working things out. This is a notebook that encourages these things with expressed hope that it results in increased clarity of thinking.
-
-* [Books](goodreads.com)
+I am a web developer and designer.
