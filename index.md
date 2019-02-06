@@ -1,4 +1,4 @@
-# 노
+
 
 Jeff Noh  
 San Francisco  
