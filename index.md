@@ -1,7 +1,8 @@
 
 **Jeff Noh**  
 *Developer and Product Designer*  
-San Francisco  
 
+
+San Francisco  
 jeff@jnoh.net  
 
