@@ -21,8 +21,11 @@
         min-height: 100%;
         background-color: #dee0f1;
         background-image: linear-gradient( to bottom, #FFFFFF 0px, #FFFFFF 96px, #dee0f1 255px, #dee0f1 100% );
+        overflow: hidden;
       }
       #page {
+        position: relative;
+        z-index: 2;
         margin: 35px;
         word-wrap: break-word;
         line-height: 1.2rem;
@@ -59,9 +62,19 @@
         font-style: normal;
         color: #00A89D;
       }
+      #spotlight {
+        position: absolute;
+        z-index: 1;
+        bottom: -100vw;
+        right: -100vw;
+        width: 200vw;
+        height: 200vw;
+        background-image: radial-gradient( closest-side, #fcc9cf 5%, transparent 80%);
+      }
     </style>
   </head>
   <body>
+    <div id="spotlight"></div>
     <div id="page">
       {{content}}
     </div>
