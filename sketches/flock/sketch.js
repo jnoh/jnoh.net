@@ -1,3 +1,7 @@
+// Modified version of The Nature of Code
+// Daniel Shiffman
+// http://natureofcode.com
+
 let flock;
 
 function setup() {
@@ -21,10 +25,6 @@ function mouseDragged() {
   flock.addBoid(new Boid(mouseX, mouseY));
 }
 
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
-
 // Flock object
 // Does very little, simply manages the array of all the boids
 
@@ -43,9 +43,6 @@ Flock.prototype.addBoid = function(b) {
   this.boids.push(b);
 }
 
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
 
 // Boid class
 // Methods for Separation, Cohesion, Alignment added

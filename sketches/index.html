@@ -1,20 +1,54 @@
-<html>
-  <head>
-    <style>
-      body {
-        margin:0px;
-      }
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>
-        <a href="/">Jeff Noh</a>
-        /
-        <a href="/sketches">Sketches</a>
-      </h1>
-      <h2>Sketches</h2>
-    </header>
-    <a href="/sketches/p5js-template">p5.js Template</a>
-  </body>
-</html>
+---
+layout: default
+title: Jeff Noh
+---
+
+<style>
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+    margin-left: -1rem;
+  }
+  .tile {
+    margin: 1rem;
+  }
+  .tile img {
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  }
+</style>
+
+<header>
+  <p>
+    <a href="/">Jeff Noh</a> / <Strong>Sketchbook</strong>
+  </p>
+  <p>
+    This space is for collecting my sketches. Sketches are half-baked concepts, prototypes, unfinished work, explorations of technology new to me...
+</header>
+
+<section>
+  <div class="tile">
+    <a href="/sketches/flock">
+      <img src="/assets/flock.gif" title="flock sketch" />
+    </a>
+    <p>
+      <a href="/sketches/flock">Flock</a> a p5.js sketch
+    </p>
+  </div>
+  <div class="tile">
+    <a href="/sketches/particle-system">
+      <img src="/assets/particle-system.gif" title="p5.js template" />
+    </a>
+    <p>
+      <a href="/sketches/particle-system">Particle System</a> a p5.js sketch
+    </p>
+  </div>
+  <div class="tile">
+    <a href="/sketches/p5js-template">
+      <img src="/assets/p5js-template.gif" title="p5.js template" />
+    </a>
+    <p>
+      <a href="/sketches/p5js-template">p5.js template</a> is a starting point for p5.js sketches
+    </p>
+  </div>
+</section>
