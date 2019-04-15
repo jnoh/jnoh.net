@@ -7,8 +7,8 @@ setup=draw=_=>{
   createCanvas(window.innerWidth,window.innerHeight);
 	f++;
 
-	background(0);
-	fill(0);
+	background(255);
+	fill(255);
   stroke(255, 255, 255);
   strokeWeight(2);
 
