@@ -4,6 +4,7 @@ title: Jeff Noh
 ---
 
 **[Jeff Noh](/)**  
+<i>Updated at {{ page.path | last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
 
 I'm a designer/developer building digital tools for connecting people, things and ideas.
 

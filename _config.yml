@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: jnoh.net
+title: Jeff Noh | jnoh.net
 description: >- # this means to ignore newlines until "baseurl:"
   my space to think out loud
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,13 +21,12 @@ url: "https://jnoh.net" # the base hostname & protocol for your site, e.g. http:
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - _site/
   - Gemfile
   - Gemfile.lock
   - node_modules

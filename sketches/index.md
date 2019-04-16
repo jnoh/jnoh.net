@@ -4,6 +4,7 @@ title: Jeff Noh | sketches
 ---
 
 **[Jeff Noh](/)** / **sketches**  
+<i>Updated at {{ page.path | last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
 
 These sketches are small explorations of new(-to-me) technologies, half-baked concepts, prototypes, unfinished work... some of which, with a bit of luck and care, will grow up into full fledged projects.
 
