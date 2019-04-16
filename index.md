@@ -6,7 +6,8 @@ title: Jeff Noh
 **[Jeff Noh](/)**  
 <i>Updated at {{ page.path | last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
 
-I'm a designer/developer building digital tools for connecting people, things and ideas.
+![Me](/assets/2019-avatar.jpeg)
+I'm a developer building digital tools for connecting people, things and ideas.
 
 Drop me a note [jeff@jnoh.net](mailto:jeff@jnoh.net)
 
