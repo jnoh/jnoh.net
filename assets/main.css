@@ -79,10 +79,6 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-  img {
-    width: 100%;
-    margin: 16px;
-  }
   #page {
     margin: 16px;
   }
@@ -90,3 +86,4 @@ img {
     margin-left: 16px;
   }
 }
+
