@@ -9,7 +9,7 @@ title: Jeff Noh
 ![Me](/assets/2019-avatar.jpeg)
 I'm a developer building digital tools for connecting people, things and ideas.
 
-Drop me a note [jeff@jnoh.net](mailto:jeff@jnoh.net) or <a href="https://twitter.com/jnoh" rel="me">@jnoh</a>
+Drop me a note <a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a> or <a href="https://twitter.com/jnoh" rel="me">@jnoh</a>
 
 <br />
 
