@@ -14,7 +14,7 @@ html, body {
   margin: 36px;
   word-wrap: break-word;
   line-height: 1.33rem;
-  max-width: 600px;
+  max-width: 525px;
 }
 h1 {
   align-items: baseline;
@@ -34,7 +34,6 @@ input {
   width: 60%;
 }
 ul, ol {
-  margin-left: 48px;
   padding-left: 1em;
 }
 li {
@@ -77,8 +76,5 @@ img {
 @media screen and (max-width: 600px) {
   #page {
     margin: 16px;
-  }
-  ul {
-    margin-left: 16px;
   }
 }
