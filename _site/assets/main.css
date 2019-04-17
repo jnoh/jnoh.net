@@ -15,6 +15,7 @@ html, body {
   word-wrap: break-word;
   line-height: 1.33rem;
   max-width: 525px;
+  margin: 0 auto;
 }
 h1 {
   align-items: baseline;
@@ -34,6 +35,7 @@ input {
   width: 60%;
 }
 ul, ol {
+  padding-left: 1em;
 }
 li {
   margin-bottom: 16px;
@@ -72,7 +74,33 @@ img {
   margin-bottom: 16px;
 }
 
+header {
+  position: absolute;
+  width: 160px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+header img {
+  width: 100%;
+}
+header li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  line-height: 1.6em;
+}
+header ul {
+  padding: 0;
+  margin: 0;
+}
+#page {
+  margin-left: 192px;
+}
+
 @media screen and (max-width: 600px) {
+  header {
+    position: relative;
+  }
   #page {
     margin: 16px;
   }

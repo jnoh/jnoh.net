@@ -3,17 +3,6 @@ layout: default
 title: Jeff Noh
 ---
 
-[Jeff Noh](/)  
-Software Developer
-
-![Me](/assets/2019-avatar.jpeg)
-
-<a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a>  
-jnoh@{ <a href="https://twitter.com/jnoh">twitter</a>, 
-<a href="https://instagram.com/jnoh">instagram</a>, 
-<a href="https://github.com/jnoh" rel="me">github</a> } 
-
-
 * **Caret Labs (2014-2018)**
   [caretlabs.co](https://www.caretlabs.co)   
   a software studio building apps to connect people in novel ways
