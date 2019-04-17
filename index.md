@@ -13,10 +13,6 @@ Drop me a note <a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a> or <a h
 
 <br />
 
-* **Sketches**
-  [/sketches](/sketches)   
-  an idea nursery: small explorations of new tech
-
 * **Caret Labs (2014-2018)**
   [caretlabs.co](https://www.caretlabs.co)   
   a software studio building apps to connect people in novel ways
@@ -36,3 +32,7 @@ Drop me a note <a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a> or <a h
 * **Spinlister (2011-2012)**
   [spinlister.com](https://spinlister.com)  
   a service to rent bicycles from locals
+
+* **Sketches**
+  [/sketches](/sketches)   
+  an idea nursery: small explorations of new tech

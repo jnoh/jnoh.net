@@ -13,6 +13,7 @@ html, body {
   margin: 36px;
   word-wrap: break-word;
   line-height: 1.33rem;
+  max-width: 600px;
 }
 h1 {
   align-items: baseline;
@@ -32,7 +33,7 @@ input {
   width: 60%;
 }
 ul, ol {
-  margin-left: 64px;
+  margin-left: 32px;
   padding-left: 1em;
 }
 li {
