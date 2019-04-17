@@ -4,7 +4,7 @@ title: Jeff Noh
 ---
 
 **[Jeff Noh](/)**  
-<i>Updated at {{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
+<i>{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
 
 ![Me](/assets/2019-avatar.jpeg)
 I'm a developer building digital tools for connecting people, things and ideas.
