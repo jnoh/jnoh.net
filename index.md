@@ -4,6 +4,7 @@ title: Jeff Noh
 ---
 
 [Jeff Noh](/)  
+Software Developer
 
 ![Me](/assets/2019-avatar.jpeg)
 
@@ -11,6 +12,7 @@ title: Jeff Noh
 jnoh@{ <a href="https://twitter.com/jnoh">twitter</a>, 
 <a href="https://instagram.com/jnoh">instagram</a>, 
 <a href="https://github.com/jnoh" rel="me">github</a> } 
+
 
 * **Caret Labs (2014-2018)**
   [caretlabs.co](https://www.caretlabs.co)   
