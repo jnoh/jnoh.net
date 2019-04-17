@@ -3,6 +3,12 @@ layout: default
 title: Jeff Noh
 ---
 
+Now
+
+* reading about <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a> and <a href="https://glitch.com/~tinyap">tinkering</a>
+* adding to [/sketches](/sketches): my idea nursery where I keep track of my explorations of new tech and new ideas
+
+Past  
 * **Caret Labs (2014-2018)**
   [caretlabs.co](https://www.caretlabs.co)   
   a software studio building apps to connect people in novel ways
@@ -26,6 +32,3 @@ title: Jeff Noh
   [spinlister.com](https://spinlister.com)  
   a service to rent bicycles from locals
 
-* **Sketches**
-  [/sketches](/sketches)   
-  an idea nursery: small explorations of new tech

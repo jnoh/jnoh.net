@@ -35,10 +35,7 @@ input {
   width: 60%;
 }
 ul, ol {
-  padding-left: 1em;
-}
-li {
-  margin-bottom: 16px;
+  margin: 1rem 0;
 }
 dd {
   margin: 1em;
@@ -79,6 +76,7 @@ header {
   width: 160px;
   margin-left: 16px;
   margin-right: 16px;
+  line-height: 1.33em;
 }
 header img {
   width: 100%;
