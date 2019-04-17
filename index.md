@@ -3,15 +3,14 @@ layout: default
 title: Jeff Noh
 ---
 
-**[Jeff Noh](/)**  
-<i>{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
+[Jeff Noh](/)  
 
 ![Me](/assets/2019-avatar.jpeg)
-I'm a developer building digital tools for connecting people, things and ideas.
 
-Drop me a note <a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a> or <a href="https://twitter.com/jnoh" rel="me">@jnoh</a>
-
-<br />
+<a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a>  
+jnoh@{ <a href="https://twitter.com/jnoh">twitter</a>, 
+<a href="https://instagram.com/jnoh">instagram</a>, 
+<a href="https://github.com/jnoh" rel="me">github</a> } 
 
 * **Caret Labs (2014-2018)**
   [caretlabs.co](https://www.caretlabs.co)   
@@ -21,7 +20,7 @@ Drop me a note <a href="mailto:jeff@jnoh.net" rel="me">jeff@jnoh.net</a> or <a h
   <i>offline</i>  
   a shopping cart for Facebook Live
 
-* **Chalk (2014-2017)** 2017
+* **Chalk (2014-2017)** 
   <i>offline</i>  
   an app to host spontaneous chats with your Instagram followers
 

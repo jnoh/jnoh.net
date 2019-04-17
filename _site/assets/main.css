@@ -1,6 +1,7 @@
 html, body {
   overflow-x: hidden;
   font-family: '-apple-system,BlinkMacSystemFont,avenir next,avenir,Helvetica Neue', 'Helvetica', sans-serif;
+  font-size: 16px;
   padding: 0;
   margin: 0;
   min-height: 100%;
@@ -33,7 +34,7 @@ input {
   width: 60%;
 }
 ul, ol {
-  margin-left: 32px;
+  margin-left: 48px;
   padding-left: 1em;
 }
 li {
@@ -55,12 +56,6 @@ a {
 }
 a.strong {
   font-style: bold;
-}
-header p {
-  max-width: 600px;
-}
-header img {
-  max-width: 100%;
 }
 section {
   margin-top: 32px;

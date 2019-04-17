@@ -3,14 +3,12 @@ layout: default
 title: Jeff Noh | sketches
 ---
 
-**[Jeff Noh](/)** / **sketches**  
+[Jeff Noh](/) / **sketches**  
 <i>{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</i>
 
 These sketches are small explorations of new(-to-me) technologies, half-baked concepts, prototypes, unfinished work... some of which, with a bit of luck and care, will grow up into full fledged projects.
 
 They're hosted around the web. Here, [glitch/jnoh](https://glitch.com/@jnoh), and [github/jnoh](https://github.com/jnoh).
-
-<br />
 
 * **[mt. wilson towercam bot](https://twitter.com/mwtowercam)**  
   a bot that tweets <a href="http://obs.astro.ucla.edu/towercam.htm">towercam</a> images at sunrise and sunset 
