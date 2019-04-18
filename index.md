@@ -5,7 +5,7 @@ title: Jeff Noh
 
 Now (2019 April)
 
-* reading about <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a> and <a href="https://glitch.com/~tinyap">tinkering</a>
+* reading about and <a href="https://glitch.com/~tinyap">tinkering</a> with <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a>
 * adding to [/sketches](/sketches): my idea nursery where I keep track of my explorations of new tech and new ideas
 
 Past  
@@ -31,4 +31,3 @@ Past
 * **Spinlister (2011-2013)**
   [spinlister.com](https://spinlister.com)  
   a service to rent bicycles from locals
-
