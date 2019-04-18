@@ -74,13 +74,6 @@
     line-height: 1.5em;
   }
   
-  article ul {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-    max-width: 500px;
-    line-height: 1.5em;
-  }
 
   article .block {
     background: #FFF8F8;
@@ -106,65 +99,69 @@
   <img src="/assets/mention/header.png" alt="Mention: What are you thinking?" />
   <h1>Mention</h1>
   <p>
-    2014 Summer <br />
+    2014 <br />
     ios
   </p>
   <p>
-  Mention was an exploratory prototype that gave people a way to send a thought to select friends.
+  Mention was an exploratory prototype by <a href="https://www.caretlabs.co">Caret Labs</a> that gave people a way to send a thought to select friends. It explored questions about broadcast communication and finding levity in an era of aging digital profiles. 
   </p>
   <p>
-    Through an iterative design process, we (Caret Labs) tested our underlying assumptions about text-based communication. Our findings became the underpinnings of an app to follow named <a href="/jot">Jot</a>.
+    Our findings became the underpinnings of an app to follow named <a href="/jot">Jot</a>.
   </p>
   <p>I designed and built Mention from concept to full prototype in a period of 1 month and continued to iterate on it for 2 months thereafter.
   </p>
   <h2>Definitions</h2>
-  <p>I'll use these words throughout this document:
+  <p>Words that I'll be using and how I'll be using them:</p>
   <ul>
     <li>Networks: communication services, generally social</li>
-    <li>Messaging: networks deisgned around private 1 to 1</li>
+    <li>Messaging: networks designed around private 1 to 1</li>
     <li>Broadcasting: networks for 1 to many or 1 to all</li>
     <li>Publishing: syn. for broadcasting</li>
   </ul>
 
   <h2>Motivations</h2>
   <p>
-    In 2014, I noticed myself increasingly using messaging apps to send ideas and links to friends <strong>instead of posting on broadcasting networks</strong>. And it seemed to me that my friends were doing the same.
+    In 2014, I noticed my friends and I were increasingly using messaging apps to send ideas and links to friends instead of posting on broadcasting networks.
   </p>
   <p><i>Why were we doing this?</i></p>
-  <h3>Context</h3>
+  <p><strong>Our broadcast networks felt heavy.</strong></p>
+  <p>
+    At Caret Labs, our user research indicated that other people were moving broadcasting behavior from the incumbent networks as well. 
+  </p>
   <p>
     Massive social networks dominated the landscape. They were arenas full of posts fighting for attention. Friend graphs and follower graphs were bloated. User profiles chronicled a decade worth of posts. Our profiles were our avatars – a collection of posts that painted a picture of our digital selves. And they were being manicured and polished with precision.
   </p>
   <p>
     Messaging was becoming a dominant behavior. Alternative broadcasting networks were growing. Snapchat. YikYak. Facebook Messenger.
   </p>
-  <h2>Designing Mention</h2>
-  <p>
-  After many <a href="">rabbit holes of research</a>, informal surveys, and long internal conversations, it became clear that people had moved and were continuing to move much of their broadcasting behavior from the incumbent networks. 
-  </p>
-  <h3>Working Theory</h3>
   <p>
     <strong>Caret Lab's Theory</strong>
     Publishing on incumbent networks had become burdensome: these networks merged many different contexts of our lives into one; our profiles were permanent histories documenting our lives for anyone to crawl.
   </p>
 
-  <p><strong>Our broadcast networks felt heavy.</strong></p>
+  <h2>The Prototype</h2>
+  <p>
+    What would an app look like that was explicitly designed for levity of publishing?
+  </p>
+
+
+  <h3>Design Goals</h3>
+  <ul>
+    <li>Control who receives each message</li>
+    <li>Thoughts live for one day</li>
+    <li>No likes, no follower counts</li>
+  </ul>
 
   <div class="block">
     <img src="/assets/mention/compose.png" alt="compose screen" />
-    <p>
-      Designed for levity
-    </p>
-    <ul>
-      <li>Control who receives each message</li>
-      <li>Thoughts live for one day</li>
-      <li>No likes, no follower counts</li>
-    </ul>
   </div>
-  
+
   <h2>
     Outcomes
   </h2>
+  <p>
+    Mention was fast. Conversations happened quickly even for new users with few friends.
+  </p>
   <ul>
     <li>Selective send was not a feature people found useful</li>
     <li>Conversations that emerged within the thread became the focal point of the app</li>
