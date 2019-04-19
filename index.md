@@ -5,7 +5,7 @@ title: Jeff Noh
 
 Now (2019 April)
 
-* reading about and <a href="https://glitch.com/~tinyap">tinkering</a> with <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a>
+* <a href="https://glitch.com/~tinyap">tinkering</a> with <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a>
 * adding to [/sketches](/sketches): my idea nursery where I keep track of my explorations of new tech and new ideas
 
 Past  
