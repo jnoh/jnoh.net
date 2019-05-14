@@ -3,7 +3,7 @@ layout: default
 title: Jeff Noh
 ---
 
-Now (2019 April)
+Now (2019 May)
 
 * adding <a href="https://indieweb.org">indieweb</a> features to this site
 * <a href="https://glitch.com/~tinyap">tinkering</a> with <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a>
