@@ -3,11 +3,10 @@ layout: default
 title: Jeff Noh
 ---
 
-Now (2019 May)
+Now (2019 June)
 
-* adding <a href="https://indieweb.org">indieweb</a> features to this site
-* <a href="https://glitch.com/~tinyap">tinkering</a> with <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a>
-* adding to [/sketches](/sketches): my idea nursery where I keep track of my explorations of new tech and new ideas
+* Started a new job at <a href="https://www.patreon.com">Patreon</a>
+* Attending <a href="https://2019.indieweb.org/summit">IndieWeb Summit</a>
 
 Past  
 * **Caret Labs (2014-2018)**
