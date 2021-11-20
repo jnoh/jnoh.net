@@ -3,7 +3,7 @@ layout: default
 title: jnoh
 ---
 
-**Software Engineer at Patreon** _2019 - _  
+**Software Engineer at Patreon** _2019&nbsp;-&nbsp;_  
 [patreon.com](https://www.patreon.com)
 
 **Cofounder at Caret Labs** _2014 - 2018_  
