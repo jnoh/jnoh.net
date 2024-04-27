@@ -3,6 +3,12 @@ layout: default
 title: jnoh
 ---
 
+**Software Engineer at Stealth** _2024&nbsp;-&nbsp;_  
+Something with AI
+
+**Owner at ShipScout** _2023&nbsp;-&nbsp;_  
+[shipscout.app](https://www.shipscout.app)
+
 **Software Engineer at Patreon** _2019&nbsp;-&nbsp;_  
 [patreon.com](https://www.patreon.com)
 
